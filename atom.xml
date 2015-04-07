@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kennymiyasato.github.io/atom.xml" rel="self"/>
   <link href="http://kennymiyasato.github.io/"/>
-  <updated>2015-04-05T17:08:59-04:00</updated>
+  <updated>2015-04-07T09:12:50-04:00</updated>
   <id>http://kennymiyasato.github.io/</id>
   <author>
     <name><![CDATA[Kenny Miyasato]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dash]]></title>
+    <link href="http://kennymiyasato.github.io/blog/2015/04/07/dash/"/>
+    <updated>2015-04-07T09:01:59-04:00</updated>
+    <id>http://kennymiyasato.github.io/blog/2015/04/07/dash</id>
+    <content type="html"><![CDATA[<p><img src="https://kapeli.com/img/dash-256.png" title="Dash" alt="Dash" /></p>
+
+<h1>Dash</h1>
+
+<p>Today we’ll be talking about Dash and how it has helped me through my journey at Flatiron School.</p>
+
+<h2>What is Dash?</h2>
+
+<p>Here’s is a little excerpt from their <a href="https://kapeli.com/dash">website</a>:</p>
+
+<blockquote><p>“Dash is an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs (for a full list, see below). You can even generate your own docsets or request docsets to be included.”</p></blockquote>
+
+<p>It is basically an offline API documentation, instead of going through google or the ruby-doc.org you can just press -Control + H- on sublime and it will pull up any code you have questions about.</p>
+
+<p>I have been using this little app for a little less than a week, but so far it has been such a time saver! I would have to pull up my browser, then go to google, then start searching for what I was looking for.</p>
+
+<p>This app is great for people who want to start learning a new language, veterans who sometimes forget how to format code, people who do their coding offline, or people that want to save some keystrokes!</p>
+
+<h2>Installation:</h2>
+
+<ul>
+<li>Just pull up the App Store</li>
+<li>Search for Dash</li>
+<li>Install it</li>
+</ul>
+
+
+<p>Some notes about the first time running Dash:
+Go to the downloads window and start installing the languages you need, Dash comes with some documentation but sometimes your specific language may not be pre-downloaded.</p>
+
+<p>I first found out about Dash during a lecture with Steven Nunez, I was amazed as to how fast he pulled up the Ruby documentation, I said to myself, I need to get that!</p>
+
+<p>So far my journey with Dash and all its goodness has been great! Every single lab I do and need help on, I just pull up Dash and it will give me an example on how things should be formatted and structured.</p>
+
+<p><img src="http://versioned.nameberry.com/blog/wp-content/uploads/2014/07/abby-dash.jpg" title="Dash from Incredibles" alt="Dash" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My First Post on Octopress]]></title>
